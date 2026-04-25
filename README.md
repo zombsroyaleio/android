@@ -225,3 +225,4 @@ Community-maintained by the **xor & pray** group archive of installations of leg
 [`5.7.1`](https://github.com/zombsroyaleio/android/releases/tag/334)
 [`5.8.3`](https://github.com/zombsroyaleio/android/releases/tag/338)
 [`5.8.7`](https://github.com/zombsroyaleio/android/releases/tag/342)
+[`5.9.8`](https://github.com/zombsroyaleio/android/releases/tag/352)
