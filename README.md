@@ -230,3 +230,7 @@ Community-maintained by the **xor & pray** group archive of installations of leg
 ## Links for v6
 
 [`6.0.1`](https://github.com/zombsroyaleio/android/releases/tag/355)
+[`6.0.2`](https://github.com/zombsroyaleio/android/releases/tag/357)
+[`6.0.3`](https://github.com/zombsroyaleio/android/releases/tag/358)
+[`6.0.5`](https://github.com/zombsroyaleio/android/releases/tag/363)
+[`6.0.7`](https://github.com/zombsroyaleio/android/releases/tag/365)
